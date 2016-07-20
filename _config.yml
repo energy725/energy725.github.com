@@ -8,12 +8,12 @@ highlighter: rouge
 # Themes are encouraged to use these universal variables 
 # so be sure to set them if your theme uses them.
 #
-title : huofu@tech
-tagline: Site Tagline
+title : energy725@CUHK
+tagline: energy data analysis
 author :
-  name : huofu
-  email : huofu.tech@gmail.com
-  github : huofu
+  name : energy725
+  email : zhanlei.energy@gmail.com
+  github : energy725
   #twitter : username
   #feedburner : feedname
 
@@ -25,7 +25,7 @@ author :
 # Else if you are pushing to username.github.io, replace with your username.
 # Finally if you are pushing to a GitHub project page, include the project name at the end.
 #
-production_url : http://huofu.github.io
+production_url : http://energy725.github.io
 
 gems: ["jekyll-sitemap"]
 
@@ -84,7 +84,7 @@ JB :
   comments :
     provider : disqus
     disqus :
-      short_name : huofu
+      short_name : energy725
     livefyre :
       site_id : 123
     intensedebate :
@@ -126,8 +126,8 @@ JB :
   # Settings for all other include helpers can be defined by creating 
   # a hash with key named for the given helper. ex:
   #
-  #   pages_list :
-  #     provider : "custom"   
+  pages_list :
+    provider : "custom"   
   #
   # Setting any helper's provider to 'custom' will bypass the helper code
   # and include your custom code. Your custom file must be defined at:

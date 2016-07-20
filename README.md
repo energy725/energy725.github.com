@@ -1,78 +1,34 @@
-# Jekyll-Bootstrap
+#### Main Contribution
 
-The quickest way to start and publish your Jekyll powered blog. 100% compatible with GitHub pages
+Energy Management and Energy Conservation is a necessity and has its values both financially and environmentally. Whilst the majority of existing studies and efforts focuses on households and commercial buildings, more attention have been paid to campus buildings. Our work mainly covers:
 
-## Usage
+1. review and summarize existing work on energy management and energy conservation, especially for those on campus;
+2. propose systematic analysis procedures and an application framework for energy management and energy conservation under campus environments;
+3. buildup analysis and application toolkit & services for the community.
 
-For all usage and documentation please see: <http://jekyllbootstrap.com>
+#### Study Plan
 
-## Version
+**Data, Feedback and Policy for Energy Management and Energy Conservation in Campus Dormitories**
 
-0.3.0 - stable and versioned using [semantic versioning](http://semver.org/).
+Data
 
-**NOTE:** 0.3.0 introduces a new theme which is not backwards compatible in the sense it won't _look_ like the old version.
-However, the actual API has not changed at all.
-You might want to run 0.3.0 in a branch to make sure you are ok with the theme design changes.
+- Sources & Collection
+- Data Analysis Skill
+- Data Visualization
+- Analysis Framework & Toolkit
+- Sync Interfaces
 
-## Milestones
+Feedback     
 
-[0.4.0](https://github.com/plusjade/jekyll-bootstrap/milestones/v%200.4.0) - next release [ETA 03/29/2015]
+- Feedback Technique
+- Feedback System
+- Framework & Toolkit
+- Public Service
 
-### GOALS
+Policy
 
-* No open PRs against master branch.
-* Squash some bugs.
-* Add some new features (low-hanging fruit).
-* Establish social media presence.
+- Existing Policy Review
+- Data Analytic Policy
+- Charging Policy as Example
 
-
-### Bugs
-
-|Bug |Description
-|------|---------------
-|[#86](https://github.com/plusjade/jekyll-bootstrap/issues/86)  |&#x2611; Facebook Comments
-|[#113](https://github.com/plusjade/jekyll-bootstrap/issues/113)|&#x2611; ASSET_PATH w/ page & post
-|[#144](https://github.com/plusjade/jekyll-bootstrap/issues/144)|&#x2610; BASE_PATH w/ FQDN
-|[#227](https://github.com/plusjade/jekyll-bootstrap/issues/227)|&#x2611; Redundant JB/setup
-
-### Features
-
-|Bug |Description
-|------|---------------
-|[#98](https://github.com/plusjade/jekyll-bootstrap/issues/98)  |&#x2611; GIST Integration
-|[#244](https://github.com/plusjade/jekyll-bootstrap/issues/244)|&#x2611; JB/file_exists Helper
-|[#42](https://github.com/plusjade/jekyll-bootstrap/issues/42)  |&#x2611; Sort collections of Pages / Posts
-|[#84](https://github.com/plusjade/jekyll-bootstrap/issues/84)  |&#x2610; Detecting production mode
-
-### TODOS
-
-Review existing pull requests against plusjake/jekyll-bootstrap:master. Merge or close each.
-
-* Create twitter account. Add link / icon on jekyllbootstrap.com.
-* Create blog posts under plusjade/gh-pages, expose on jekyllbootstrap.com, feed to twitter account.
-* Announce state of project, announce roadmap(s), announce new versions as they’re released.
-
-## Contributing
-
-
-To contribute to the framework please make sure to checkout your branch based on `jb-development`!!
-This is very important as it allows me to accept your pull request without having to publish a public version release.
-
-Small, atomic Features, bugs, etc.
-Use the `jb-development` branch but note it will likely change fast as pull requests are accepted.
-Please rebase as often as possible when working.
-Work on small, atomic features/bugs to avoid upstream commits affecting/breaking your development work.
-
-For Big Features or major API extensions/edits:
-This is the one case where I'll accept pull-requests based off the master branch.
-This allows you to work in isolation but it means I'll have to manually merge your work into the next public release.
-Translation : it might take a bit longer so please be patient! (but sincerely thank you).
-
-**Jekyll-Bootstrap Documentation Website.**
-
-The documentation website at <http://jekyllbootstrap.com> is maintained at https://github.com/plusjade/jekyllbootstrap.com
-
-
-## License
-
-[MIT](http://opensource.org/licenses/MIT)
+The three components are complementary to each other and form a complete framework at application level in light of energy management and energy conservation in campus dormitories.   

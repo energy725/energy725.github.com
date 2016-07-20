@@ -1,0 +1,14 @@
+---
+layout: page
+title: Resources
+header: Resources
+group: navigation
+---
+{% include JB/setup %}
+
+{% for post in site.posts %}
+    {% if post.categories contains 'resources' %}
+        <h4><a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a></h4>
+    {% endif %}
+{% endfor %}
+

@@ -1,24 +1,8 @@
 ---
 layout: page
-title: 烹小鲜
-tagline: Supporting tagline
+title: Energy725
+tagline: energy data analysis
 ---
 {% include JB/setup %}
-
-@ 2016/06/28
-
-最近难熬，越是在这种时候，人的大脑越能想出一些五六七八来分散精力，刻意回避重要的事！
-
-所以近期会写
-
-1. 回顾一些研究方面的体会心得
-
-2. 梳理研究方向
-
-3. 分享一些开发经历
-
-4. 实在无聊，可能会PO菜谱上来
-
-看来我还是一个假装很热爱学习的人，菜谱应该摆第一位。。。
 
 
